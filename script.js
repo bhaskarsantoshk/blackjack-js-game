@@ -102,7 +102,7 @@ function shuffleDeck(deck){
 	}
 	//alert(JSON.stringify(deck));
 }
-
+//get card value
 function getCardNumericValue(card){
 	//alert(8);
 	switch(card.value){
