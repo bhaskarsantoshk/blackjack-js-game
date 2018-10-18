@@ -88,6 +88,7 @@ function getCardString(card){
 	return card.value+ ' of ' +card.suit;
 }
 
+// Shuffle Deck
 
 function shuffleDeck(deck){
 	//alert(2);
