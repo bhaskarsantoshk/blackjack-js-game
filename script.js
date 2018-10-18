@@ -68,7 +68,7 @@ stayButton.addEventListener('click', function(){
 	checkForEndOfGame();
 	showStatus();
 });
-
+//create Deck
 function createDeck(){
 	let deck=[];
 	
