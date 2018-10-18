@@ -23,6 +23,7 @@ let gameStarted=false,
 	dealerScore=0,
 	playerScore=0,
 	deck=[];
+//buttons
 
 
 hitButton.style.display='none';
