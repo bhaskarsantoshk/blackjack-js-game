@@ -34,7 +34,7 @@ function getNextCard(){
 	//alert(3);
 	return deck.shift();
 }
-
+//new game
 newGameButton.addEventListener('click', function(){
 	//alert(1);
 	gameStarted=true;
