@@ -60,6 +60,9 @@ hitButton.addEventListener('click', function(){
 	showStatus();
 });
 
+//Stay button
+
+
 stayButton.addEventListener('click', function(){
 	gameOver=true;
 	checkForEndOfGame();
