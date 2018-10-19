@@ -151,7 +151,7 @@ function getScore(cardArray){
 	return score;
 	
 }
-
+//update Scores
 function updateScores(){
 	//alert(6);
 	dealerScore=getScore(dealerCards);
