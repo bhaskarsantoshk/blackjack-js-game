@@ -157,7 +157,7 @@ function updateScores(){
 	dealerScore=getScore(dealerCards);
 	playerScore=getScore(playerCards);
 }
-
+//end of game
 function checkForEndOfGame(){
 	updateScores();
 	
