@@ -130,7 +130,7 @@ function getCardNumericValue(card){
 			return 10;
 }
 }
-
+//get score
 function getScore(cardArray){
 	//alert(7)
 	let score=0;
