@@ -189,7 +189,7 @@ function checkForEndOfGame(){
 	}
 }
 
-
+//show status
 function showStatus(){
 	//alert(4);
 	if(!gameStarted){
