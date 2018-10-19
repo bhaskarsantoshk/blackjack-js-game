@@ -191,7 +191,8 @@ function checkForEndOfGame(){
 
 //show status
 function showStatus(){
-	//alert(4);
+	
+	
 	if(!gameStarted){
 		//alert(5);
 		textArea.innerText='Welcome to Blackjack!';
