@@ -84,6 +84,8 @@ function createDeck(){
 	return deck;
 }
 
+//get card string
+
 function getCardString(card){
 	return card.value+ ' of ' +card.suit;
 }
