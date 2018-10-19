@@ -161,6 +161,9 @@ function updateScores(){
 function checkForEndOfGame(){
 	updateScores();
 	
+	
+	
+	
 	if(gameOver){
 		//let Dealer take cards
 		while(dealerScore < playerScore && playerScore<=21 && dealerScore<=21){
