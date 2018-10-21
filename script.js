@@ -43,6 +43,7 @@ function getNextCard(){
 //new game
 
 newGameButton.addEventListener('click', function(){
+	
 	//alert(1);
 	gameStarted=true;
 	gameOver=false;
