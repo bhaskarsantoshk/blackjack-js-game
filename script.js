@@ -26,6 +26,7 @@ let gameStarted=false,
 //buttons
 
 
+
 hitButton.style.display='none';
 stayButton.style.display='none';
 
