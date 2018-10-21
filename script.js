@@ -32,6 +32,7 @@ hitButton.style.display='none';
 stayButton.style.display='none';
 
 //next card
+
 function getNextCard(){
 	//alert(3);
 	return deck.shift();
