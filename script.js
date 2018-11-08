@@ -11,7 +11,6 @@ let textArea=document.getElementById("text-area");
 let newGameButton=document.getElementById("new-game-button");
 let hitButton=document.getElementById("hit-button");
 let stayButton=document.getElementById("stay-button");
-
 //Game Variables
 let gameStarted=false,
 	gameOver=false,
